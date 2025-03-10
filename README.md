@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##This code crafts a personal portfolio website using HTML and CSS to showcase the skills and projects of Jackson, an AI-driven backend developer. The HTML structures the content into distinct sections, beginning with a navigation bar that provides links to different areas of the portfolio: Home, About, Projects, and Contact. The "Home" section introduces Jackson with a prominent heading and a concise tagline highlighting their specialization in AI-driven backend development. The "About" section delves deeper, providing a brief biography where Jackson expresses their passion for building secure, scalable, and intelligent backend systems. It emphasizes their expertise in integrating AI to optimize workflows, enhance automation, and improve data-driven decision-making. The section also details their proficiency in databases, APIs, and cloud technologies, showcasing their ability to develop robust and high-performance server-side applications.
+# DESCRIPTION
+
+This code crafts a personal portfolio website using HTML and CSS to showcase the skills and projects of Jackson, an AI-driven backend developer. The HTML structures the content into distinct sections, beginning with a navigation bar that provides links to different areas of the portfolio: Home, About, Projects, and Contact. The "Home" section introduces Jackson with a prominent heading and a concise tagline highlighting their specialization in AI-driven backend development. The "About" section delves deeper, providing a brief biography where Jackson expresses their passion for building secure, scalable, and intelligent backend systems. It emphasizes their expertise in integrating AI to optimize workflows, enhance automation, and improve data-driven decision-making. The section also details their proficiency in databases, APIs, and cloud technologies, showcasing their ability to develop robust and high-performance server-side applications.
 
 The "Projects" section showcases Jackson's notable projects, each presented in a visually appealing manner. The projects highlight Jackson's diverse skills, including developing an AI-Powered API for scalable data processing and automation, a Predictive Analytics Engine for real-time data analysis and forecasting, and an Automated DevOps Pipeline for efficient backend deployment and monitoring. The "Contact" section provides a straightforward way for visitors to reach Jackson, displaying their email address for inquiries. Finally, a footer section anchors the page, displaying a copyright notice with Jackson's name and the current year.
 
@@ -20,7 +22,7 @@ The CSS complements the HTML structure by providing visual styling and enhancing
 
 In summary, this code creates a comprehensive personal portfolio website that effectively showcases Jackson's skills and experience as an AI-driven backend developer. The combination of HTML and CSS creates a visually appealing and informative platform for visitors to learn about Jackson's expertise and projects. The clear structure, concise descriptions, and responsive design ensure a positive user experience across various devices. This portfolio serves as a valuable tool for Jackson to present their qualifications and connect with potential employers or collaborators.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/4c3e7661-c3c0-4adf-8d7b-859b4cd765f0)
 ![Image](https://github.com/user-attachments/assets/6eeeba23-4ca2-414a-a688-8f4ff424455d)
