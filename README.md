@@ -21,3 +21,6 @@ The CSS complements the HTML structure by providing visual styling and enhancing
 In summary, this code creates a comprehensive personal portfolio website that effectively showcases Jackson's skills and experience as an AI-driven backend developer. The combination of HTML and CSS creates a visually appealing and informative platform for visitors to learn about Jackson's expertise and projects. The clear structure, concise descriptions, and responsive design ensure a positive user experience across various devices. This portfolio serves as a valuable tool for Jackson to present their qualifications and connect with potential employers or collaborators.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4c3e7661-c3c0-4adf-8d7b-859b4cd765f0)
+![Image](https://github.com/user-attachments/assets/6eeeba23-4ca2-414a-a688-8f4ff424455d)
